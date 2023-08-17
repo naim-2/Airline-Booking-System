@@ -3,7 +3,7 @@ This project uses Java forms to build an interactive user interface for customer
 with the database using SQL. This project was developed by Brian and me while taking our Object Oriented class.
 
 ## 1. First set up the project as follows: 
-Download and install Netbeans 8.0
+Download and install NetBeans 8.0
 #
 Download the zipped folder and unzip it OR clone the repository to your local machine
 #
